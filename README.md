@@ -76,4 +76,5 @@ Leonardo Ramirez  | Carlos Nuñez
 
 ### Tenth-Fourth game
 
+![](/LeonardoRamirezVSCarlosNu%C3%B1ez.jpeg)
 ### End

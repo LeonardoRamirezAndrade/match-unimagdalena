@@ -8,7 +8,7 @@ Ciudad: Santa Marta
 
 Escenario: Universidad Unimagdalena
 
-Fecha: 19 agosto - ......
+Fecha: 26 agosto - ......
 
 ### Modo de juego
 
@@ -35,7 +35,7 @@ El encuentro se disputara en la cafetería de la universidad Unimagdalena desde 
                     
 Leonardo Ramirez  | Carlos Nuñez
 ------------- | -------------
-0 | 0
+1/2 | 1/2
 0 | 0 
 0 | 0
 0 | 0

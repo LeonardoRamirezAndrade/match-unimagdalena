@@ -50,8 +50,14 @@ Leonardo Ramirez  | Carlos Nuñez
 0 | 0
 0 | 0 
 
-### First game
+Resultado Final :
+Leonardo Ramirez  | Carlos Nuñez
+------------- | -------------
+1/2 | 1/2
 
+
+### First game
+![](/Photos/firstgame.jpeg)
 ### second game
 
 ### Third game
@@ -76,5 +82,5 @@ Leonardo Ramirez  | Carlos Nuñez
 
 ### Tenth-Fourth game
 
-![](/LeonardoRamirezVSCarlosNu%C3%B1ez.jpeg)
 ### End
+![](/Photos/LeonardoRamirezVSCarlosNu%C3%B1ez.jpeg)

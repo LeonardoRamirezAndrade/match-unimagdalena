@@ -26,7 +26,7 @@ Fecha: 26 agosto - ......
 
 
 #### Fechas
-El encuentro se disputara en la cafetería de la universidad Unimagdalena desde el 19 de agosto hasta completar los 14 juegos
+El encuentro se disputara en la cafetería de la universidad Unimagdalena desde el 26 de agosto hasta completar los 14 juegos
 
 ![](https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/ColinStapczynski/phpEhIfOY.jpeg)
 

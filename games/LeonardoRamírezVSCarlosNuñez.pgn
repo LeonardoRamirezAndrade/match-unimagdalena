@@ -1,0 +1,20 @@
+[Event "Match Unimagdalena"]
+[Site "Santa Marta"]
+[Date "26/August/2022"]
+[Round "1"]
+[White "Leonardo Ramírez Andrade"]
+[Black "Carlos Nuñez Rudas"]
+[Result "1/2-1/2"]
+[WhiteElo "1703"]
+[BlackElo "2076"]
+[Board "1"]
+[UTCDate "2022.08.31"]
+[UTCTime "13:38:21"]
+[Variant "Standard"]
+[ECO "E92"]
+[Opening "King's Indian Defense: Petrosian Variation, Stein Defense"]
+[Annotator "https://lichess.org/@/Ciegoman"]
+
+1. d4 Nf6 2. c4 g6 3. Nc3 Bg7 4. e4 d6 5. Nf3 O-O 6. Be2 e5 7. d5 a5 8. Bg5 Na6 9. a3?! { Inaccuracy. h3 was best. } 9... Qe8?! { Inaccuracy. h6 was best. } 10. Qc2?! { Inaccuracy. Nd2 was best. } 10... Nc5?! { Inaccuracy. Nh5 was best. } 11. O-O?! { Inaccuracy. Nd2 was best. } (11. Nd2) 11... a4 12. Nd2 Bd7 13. f4 h6 14. fxe5? { Mistake. Bxf6 was best. } 14... Qxe5? { Mistake. Nxd5 was best. } 15. Bh4?! { Inaccuracy. Bf4 was best. } 15... Ng4? { Mistake. Nb3 was best. } 16. Bxg4 Bxg4 17. h3 Qh5 18. Bf6?? { Blunder. Bf2 was best. } 18... Bd7?? { Blunder. Bxf6 was best. } 19. Bxg7 Kxg7 20. Rf2 Rae8 21. Raf1 f5?! { Inaccuracy. Kg8 was best. } 22. Kh2?! { Inaccuracy. Nb5 was best. } 22... fxe4 23. Rxf8 Rxf8 24. Rxf8 Qe5+ 25. g3 Kxf8 26. Ndxe4 Bf5 27. Nxc5 Bxc2 28. Nd7+ Ke7 29. Nxe5 dxe5 30. c5 Bb3 31. Kg2 b6 32. cxb6 cxb6 33. Kf3 Kd6 34. Ke4 Bc2+ 35. Ke3 b5 36. Nxb5+ Kxd5 37. Nc3+ Kc4 38. Kd2 Bb3 39. Ke3 Bc2 40. Kd2 Bb3 41. Ke3 Bc2 42. Kd2 1/2-1/2
+
+

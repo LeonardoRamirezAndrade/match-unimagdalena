@@ -30,7 +30,7 @@ header nav .nav-right-section {
 }
 
 .subrayado {
-    color: rgb(255, 24, 24);
+    color: rgb(255, 6, 6);
     text-decoration: none;
 
 }
@@ -64,7 +64,7 @@ header nav .nav-right-section {
     max-width: 100%;
     align-items: center;
     min-height: 10vh;
-    font-size: 10rem;
+    font-size: 11rem;
 
   }
   .accordion .contentBx{
@@ -108,7 +108,9 @@ header nav .nav-right-section {
   .accordion .contentBx.active .label::before{
     content: '-';
   }
-
+  .gamespgn {
+    font-size: 1.5rem;
+  }
   video {
     margin-left: 5rem;
     width: 90%;

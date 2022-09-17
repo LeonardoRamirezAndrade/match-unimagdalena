@@ -1,0 +1,23 @@
+[Event "Match Unimagdalena"]
+[Site "Universidad del Magdalena"]
+[Date "11/sep/2022"]
+[Round "2"]
+[White "Carlos Nuñez"]
+[Black "Leonardo Ramírez"]
+[Result "1-0"]
+[WhiteElo "2076"]
+[WhiteTeam "Unimag"]
+[BlackElo "1703"]
+[BlackTeam "Rafakov"]
+[Termination "Resign"]
+[Board "1"]
+[Annotator "Leonardo Ramírez"]
+[UTCDate "2022.09.12"]
+[UTCTime "00:06:14"]
+[Variant "Standard"]
+[ECO "C50"]
+[Opening "Italian Game: Giuoco Pianissimo, Italian Four Knights Variation"]
+
+1. e4 { [%eval 0.0] } 1... e5 { [%eval 0.12] } 2. Nc3 { [%eval 0.16] } 2... Nc6 { [%eval 0.1] } 3. Bc4 { [%eval 0.11] [%csl Gc5,Gh5,Ge5][%cal Gf8c5,Gd1h5,Gh5e5] } 3... Nf6 { [%eval 0.0] } (3... Bc5 4. Qh5) 4. d3 { [%eval 0.0] } 4... Bc5 { [%eval 0.13] } 5. Nf3 { [%eval 0.11] } 5... a6 { [%eval 0.09] [%csl Ga4][%cal Gc3a4] } 6. a4 { [%eval 0.18] [%csl Ga5][%cal Ga5a6] } 6... d6 { [%eval 0.12] } 7. Be3 { [%eval 0.0] [%csl Gg5,Gg4,Gf3][%cal Gg6h7,Gh7g5] } 7... Bxe3 { [%eval 0.0] } 8. fxe3 { [%eval 0.01] } 8... Ne7 { [%eval 0.15] } 9. O-O { [%eval 0.19] } 9... O-O { [%eval 0.15] } 10. d4 { [%eval 0.13] } 10... Ng6 { [%eval 0.23] [%csl Ge3] } 11. Qd3 { [%eval 0.28] } (11. dxe5 dxe5 { [%csl Gd8][%cal Gd1d8] } (11... Nxe5 12. Nxe5 dxe5 13. Qxd8 Rxd8) 12. Qxd8 Rxd8 13. Ng5 Rf8) 11... c6 { [%eval 0.33] } 12. Bb3 { [%eval 0.03] } 12... Qe7 { [%eval 0.27] } 13. h3 { [%eval -0.03] } 13... Bd7 { [%eval 0.33] } (13... Be6 14. d5 { [%csl Ge4] } 14... Bd7 (14... cxd5 15. exd5 (15. Nxd5 Bxd5 16. exd5 (16. Bxd5 { [%csl Gb7,Ga4][%cal Ga1a3,Ga3b3] })))) 14. a5 { [%eval 0.33] } 14... Rad8 { [%eval 0.62] } 15. Rfe1?! { [%eval -0.08] } { Inaccuracy. d5 was best. } { [%csl Gf3,Gh3,Gg3] } (15. d5) 15... h6 { [%eval 0.0] } 16. Qe2?! { [%eval -0.62] } { Inaccuracy. d5 was best. } (16. d5 c5 17. Qe2 Nh5 18. Ba4 Bc8 19. Nh2 Qh4 20. Nf3) 16... Nh7?! { [%eval 0.15] } { Inaccuracy. Be6 was best. } (16... Be6 17. Bxe6 (17. d5 Bd7 (17... cxd5 18. exd5)) 17... Qxe6 18. Nd2 d5 19. exd5 Nxd5 20. Nb3 Qe7 21. Nxd5 cxd5 22. Rf1 Rfe8 23. Qh5) 17. Na4?! { [%eval -0.84] } { Inaccuracy. Nd2 was best. } (17. Nd2 Nh4 18. Rf1 Kh8 19. d5 g5 20. dxc6 bxc6 21. Rf2 g4 22. hxg4 Qg5 23. Nf3 Qxg4) 17... Ng5 { [%eval -0.83] [%cal Gd7h3,Gg2h3,Gg5h3] } 18. Nxg5 { [%eval -0.89] } 18... Qxg5 { [%eval -0.93] } 19. Kh2 { [%eval -1.13] } 19... exd4 { [%eval -0.72] } 20. exd4 { [%eval -0.71] } 20... Qxa5 { [%eval -0.65] } 21. Nc5 { [%eval -0.49] } 21... Qc7 { [%eval -0.14] } 22. Nxd7 { [%eval -0.34] } 22... Rxd7 { [%eval -0.31] } 23. Qg4 { [%eval -0.3] } 23... d5+ { [%eval -0.17] [%csl Gd7,Ge7][%cal Gg6e7,Gc6c5] } 24. Kh1 { [%eval -0.71] } 24... Re7 { [%eval -0.37] } (24... Re8)  (24... Rfd8 25. exd5 cxd5)  (24... Nf4 25. Rf1 (25. Re3 Ne6 { [%csl Ge6,Gg7,Ge4][%cal Ge6g7,Gg7g5,Gg5e4] })) 25. exd5 { [%eval -0.5] } 25... Rxe1+ { [%eval 0.0] } (25... cxd5 26. Bxd5 Qxc2 27. Qxg6 (27. Rxe7 Nxe7 28. Bxb7 (28. Be4 Qxb2 29. Rb1 Qf2 30. Rxb7)) 27... Rxe1+) 26. Rxe1 { [%eval 0.0] } 26... cxd5 { [%eval 0.12] } 27. Bxd5 { [%eval -0.18] } 27... Qa5? { [%eval 1.41] } { Mistake. Qxc2 was best. } (27... Qxc2 28. Bxb7 (28. Be4 Qxb2) 28... Qxb2 29. Bxa6 Qc3 30. Rf1 Ra8 31. Be2 Re8 32. Qf3 Qc7 33. Bd3 Nf8 34. Bc2) 28. Qe4 { [%eval 1.25] } 28... Qd2?? { [%eval 4.01] } { Blunder. Ne7 was best. } (28... Ne7 29. Bxb7 Nf5 30. Qe5 Qd2 31. c3 Qxb2 32. Be4 Nh4 33. Qg3 Ng6 34. Bd5 Qb6 35. Rf1) 29. Rf1 { [%eval 4.05] } 29... Qg5 { [%eval 4.29] } 30. Rxf7 { [%eval 4.15] } 30... Rxf7 { [%eval 4.49] } 31. Qe8+ { [%eval 4.47] } 31... Kh7 { [%eval 4.78] } 32. Qxf7 { [%eval 5.12] } 32... h5 { [%eval 5.26] } 33. Bxb7 { [%eval 4.63] } 33... Qc1+ { [%eval 4.48] } 34. Kh2 { [%eval 4.57] } 34... Qxc2 { [%eval 4.32] } 35. Bxa6 { [%eval 4.37] } 35... Kh6 { [%eval 4.99] } 36. Qe6?? { [%eval 2.41] } { Blunder. Qf3 was best. } (36. Qf3) 36... Kh7?? { [%eval 6.29] } { Blunder. Qc7+ was best. } (36... Qc7+ 37. Kg1 (37. g3 Qc1) 37... Qf4 38. d5 Qd4+ 39. Kh1 Kg5 40. b4 Nf4 41. Qe7+ Kh6 42. Kh2 Qd2 43. Qe4) 37. Qe2 { [%eval 7.09] } 37... Qc7+ { [%eval 7.28] } 38. g3 { [%eval 7.65] } 38... Kh6 { [%eval 8.25] } 39. Qe3+ { [%eval 7.26] } 39... Kh7 { [%eval 8.07] } 40. Bd3 { [%eval 7.3] } 40... h4 { [%eval 10.02] } 41. Bxg6+ { [%eval 10.63] } 41... Kxg6 { [%eval 10.86] } 42. Qe4+ { [%eval 11.24] } (42. Qf4) 42... Kf7 { [%eval 11.54] } 43. Qf4+ { [%eval 11.54] } 1-0
+
+

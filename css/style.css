@@ -5,6 +5,7 @@
     font-family: 'Roboto Slab', serif;
     font-size: 62.5%;
 }
+
 header {
     width: 100%;
     height: 33px;
@@ -120,3 +121,23 @@ header nav .nav-right-section {
     align-items: center;
     justify-content: center;
   }
+/*  Estas lineas son para modificiar el scroll css */
+  ::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: rgba(190, 189, 189, 0.219);
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(145, 252, 139, 0.998);
+    border-radius: 20px;
+    border-right: 2px solid;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(114, 255, 96);
+  }
+/*  Estas lineas son para modificiar el scroll css */

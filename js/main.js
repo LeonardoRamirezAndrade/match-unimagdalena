@@ -5,7 +5,7 @@ const typed = new Typed('.typed', {
         '<i>Marcador actual: 0.5 - 1.5</i>'],
     
 	stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
-	typeSpeed: 69, // Velocidad en mlisegundos para poner una letra,
+	typeSpeed: 68, // Velocidad en mlisegundos para poner una letra,
 	startDelay: 300, // Tiempo de retraso en iniciar la animacion. Aplica tambien cuando termina y vuelve a iniciar,
 	backSpeed: 69, // Velocidad en milisegundos para borrrar una letra,
 	smartBackspace: true, // Eliminar solamente las palabras que sean nuevas en una cadena de texto.

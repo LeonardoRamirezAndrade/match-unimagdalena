@@ -1,0 +1,20 @@
+[Event "Match Unimagdalena"]
+[Site "Santa Marta"]
+[Date "26/August/2022"]
+[Round "3"]
+[White "Leonardo Ramírez Andrade"]
+[Black "Carlos Nuñez Rudas"]
+[Result "0-1"]
+[WhiteElo "1703"]
+[BlackElo "2076"]
+[Board "1"]
+[Annotator "https://lichess.org/@/LeoramirezA2004"]
+[UTCDate "2022.10.18"]
+[UTCTime "03:38:22"]
+[Variant "Standard"]
+[ECO "B83"]
+[Opening "Sicilian Defense: Scheveningen Variation, Modern Variation"]
+
+1. e4 { [%eval 0.0] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.0] } 2... d6 { [%eval 0.0] } 3. d4 { [%eval 0.25] } 3... cxd4 { [%eval 0.13] } 4. Nxd4 { [%eval 0.27] } 4... Nf6 { [%eval 0.31] } 5. Nc3 { [%eval 0.18] } 5... Nc6 { [%eval 0.47] } 6. Be2 { [%eval 0.12] } 6... e6 { [%eval 0.39] } 7. Be3 { [%eval 0.0] } 7... Be7 { [%eval 0.31] } 8. Qd2 { [%eval 0.34] } 8... a6 { [%eval 0.5] } 9. g4 { [%eval 0.13] } 9... Qc7? { Mistake. Nxd4 was best. } { [%eval 1.5] } 10. g5 { [%eval 1.25] } 10... Nd7 { [%eval 1.34] } 11. O-O-O { [%eval 1.13] } 11... b5 { [%eval 1.04] } 12. Bh5? { Mistake. Nxc6 was best. } { [%eval -0.52] } (12. Bg4) 12... Nde5?! { Inaccuracy. O-O was best. } { [%eval 0.19] } (12... O-O) 13. f4?! { Inaccuracy. Be2 was best. } { [%eval -0.5] } (13. Be2 Nxd4) 13... Nc4 { [%eval -0.51] } 14. Qf2 { [%eval -1.08] } 14... Nxe3 { [%eval -0.49] } 15. Qxe3 { [%eval -0.61] } 15... O-O { [%eval -0.52] } 16. Nf3? { Mistake. Nxc6 was best. } { [%eval -1.75] } (16. Nxc6 Qxc6) 16... b4 { [%eval -1.67] } 17. Ne2 { [%eval -1.88] } 17... Qa7? { Mistake. a5 was best. } { [%eval -0.42] } (17... a5) 18. Qd3?! { Inaccuracy. Qxa7 was best. } { [%eval -1.46] } (18. Qxa7 Rxa7) 18... a5 { [%eval -1.38] } 19. Kb1?! { Inaccuracy. Nfd4 was best. } { [%eval -2.07] } (19. Nfd4 Nxd4) 19... a4?! { Inaccuracy. Ba6 was best. } { [%eval -1.46] } 20. Nc1? { Mistake. Nfd4 was best. } { [%eval -3.32] } (20. Nfd4 Nxd4) 20... Ba6 { [%eval -3.41] } 21. Qd2 { [%eval -3.14] } 21... b3 { [%eval -3.12] } 22. cxb3 { [%eval -3.91] } 22... axb3 { [%eval -3.49] } 23. a3 { [%eval -4.0] } 23... Na5 { [%eval -3.75] } 24. f5?! { Inaccuracy. h4 was best. } { [%eval -4.82] } (24. h4 Nc4) 24... Rfc8? { Mistake. Nc4 was best. } { [%eval -2.98] } 25. f6?! { Inaccuracy. fxe6 was best. } { [%eval -4.03] } 25... Rc2?? { Blunder. Bf8 was best. } { [%eval 1.08] } 26. Qxa5 { [%eval 0.63] } 26... Rxc1+?? { Blunder. Bxf6 was best. } { [%eval 3.46] } (26... Bxf6 27. gxf6) 27. Kxc1 { [%eval 3.17] } 27... Rc8+ { [%eval 3.32] } 28. Kb1 { [%eval 3.26] } 28... Bd3+ { [%eval 3.48] } 29. Rxd3 { [%eval 3.35] } 29... Qxa5 { [%eval 3.34] } 30. fxe7 { [%eval 2.82] } 30... g6 { [%eval 3.11] } (30... Re8) 31. Rxd6?? { Blunder. Bg4 was best. } { [%eval -2.27] } (31. e5) 31... Re8?? { Blunder. Qc7 was best. } { [%eval 2.29] } (31... Qc7) 32. Bg4 { [%eval 2.56] } 32... Rxe7 { [%eval 2.46] } 33. Rhd1?! { Inaccuracy. e5 was best. } { [%eval 1.58] } (33. e5) 33... Qc5?! { Inaccuracy. Qc7 was best. } { [%eval 2.37] } 34. R6d3?? { Blunder. Rd8+ was best. } { [%eval -6.82] } 34... Qc2+ { [%eval -7.05] } 35. Ka1 { [%eval -2.25] } 35... Ra7 { [%eval -6.83] } 0-1
+
+

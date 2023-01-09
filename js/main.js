@@ -2,7 +2,7 @@ const typed = new Typed('.typed', {
     strings: [
         '<i>Match-unimagdalena chess ♛!</i>',
         '<i>Leonardo Ramírez vs Carlos Nuñez</i>',
-        '<i>Marcador actual: 0.5 - 1.5</i>'],
+        '<i>Marcador actual: 0.5 - 2.5</i>'],
     
 	stringsElement: '#cadenas-texto', // ID del elemento que contiene cadenas de texto a mostrar.
 	typeSpeed: 68, // Velocidad en mlisegundos para poner una letra,

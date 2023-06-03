@@ -37,10 +37,10 @@ Leonardo Ramirez  | Carlos Nuñez
 ------------- | -------------
 1/2 | 1/2
  0  | 1 
-0 | 0
-0 | 0
-0 | 0
-0 | 0
+1/2 | 1/2
+0 | 1
+1/2 | 1/2
+1 | 0
 0 | 0
 0 | 0
 0 | 0
@@ -53,7 +53,7 @@ Leonardo Ramirez  | Carlos Nuñez
 Resultado Final :
 Leonardo Ramirez  | Carlos Nuñez
 ------------- | -------------
-0.5 | 1.5
+2.5 | 3.5
 
 
 ### First game
